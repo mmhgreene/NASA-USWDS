@@ -11,11 +11,11 @@
 10. run command in node.js command prompt within uswds folder (sass --watch input.scss output.css) 
 11. Now you can make changes to the SCSS files within the Themes folder and it will be compiled.
 ----------------------------------------------------------------------------------------------------------------------------------
-if you used the command (npm install --save uswds@latest) SCSS files are located in -../node_module/uswds/dist/scss/
-if you used git clone the scss files are located in - uswds/src/stylesheets
-if you used the command (npm install --save uswds@latest) CSS files are located in - ../node_module/uswds/dist/css
+* if you used the command (npm install --save uswds@latest) SCSS files are located in -../node_module/uswds/dist/scss/
+* if you used git clone the scss files are located in - uswds/src/stylesheets
+* if you used the command (npm install --save uswds@latest) CSS files are located in - ../node_module/uswds/dist/css
 ----------------------------------------------------------------------------------------------------------------------------------
-need to make change to style.scss in the Themes Folder
-1.@import 'uswds' Change  to '../uswds'
-2. add @import 'uswds-theme-components'
+* need to make change to style.scss in the Themes Folder
+  1. @import 'uswds' Change  to '../uswds'
+  2. add @import 'uswds-theme-components'
 ----------------------------------------------------------------------------------------------------------------------------------
