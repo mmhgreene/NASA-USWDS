@@ -33,12 +33,10 @@ Changes Made to the _uswds-theme-color.scss file founded in the Theme folder
 Changes Made to the _uswds-theme-typography.scss file founded in the Theme folder
  * Change the varible value of $theme-font-type-lang from False to 'helvetica'
  * Change the varible value of $theme-font-role-heading from 'serif' to 'lang'
- * Change the varible value of $theme-h1-font-size from '2xl' to  17 
- * Change the varible value of $theme-h2-font-size from 'xl' to  15
- * Change the varible value of $theme-h3-font-size from 'lg' to  12
- * Change the varible value of $theme-h4-font-size from 'sm' to  11
- * Change the varible value of $theme-h5-font-size from 'xs' to  10
- * Change the Varible value of $theme-h6-font-size from '3xs' to 9
+ * Change the varible value of $theme-h3-font-size from 'lg' to  10
+ * Change the varible value of $theme-h4-font-size from 'sm' to  8
+ * Change the varible value of $theme-h5-font-size from 'xs' to  'sm'
+ * Change the Varible value of $theme-h6-font-size from '3xs' to 'xs'
  
  ---------------------------------------------------------------------------------------------------------------------------------------
  Where things live
