@@ -399,12 +399,12 @@ $theme-body-line-height:           5;
 $theme-style-body-element:         false;
 
 // Headings
-$theme-h1-font-size:               17;
-$theme-h2-font-size:               15;
-$theme-h3-font-size:               12;
-$theme-h4-font-size:               11;
-$theme-h5-font-size:               10;
-$theme-h6-font-size:               9;
+$theme-h1-font-size:               '2xl';
+$theme-h2-font-size:               'xl';
+$theme-h3-font-size:               10;
+$theme-h4-font-size:               8;
+$theme-h5-font-size:               'sm';
+$theme-h6-font-size:               'xs';
 $theme-heading-line-height:        2;
 $theme-small-font-size:            '2xs';
 $theme-display-font-size:          '3xl';
