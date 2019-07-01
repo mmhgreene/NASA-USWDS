@@ -10,7 +10,8 @@
 9. run program node.js command prompt.
 10. run command in node.js command prompt within uswds folder (sass --watch input.scss output.css) 
 11. Now you can make changes to the SCSS files within the Themes folder and it will be compiled.
-12. Optional: 
+
+Optional: 
 * Move all folders from this NASA-USWDS to ../dist/ 
 ----------------------------------------------------------------------------------------------------------------------------------
 * if you used the command (npm install --save uswds@latest) SCSS files are located in -../node_module/uswds/dist/scss/
