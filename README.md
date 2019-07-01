@@ -15,7 +15,39 @@
 * if you used git clone the scss files are located in - uswds/src/stylesheets
 * if you used the command (npm install --save uswds@latest) CSS files are located in - ../node_module/uswds/dist/css
 ----------------------------------------------------------------------------------------------------------------------------------
-* need to make change to style.scss in the Themes Folder
+Need to make change to style.scss in the Themes Folder
   1. @import 'uswds' Change  to '../uswds'
   2. add @import 'uswds-theme-components'
 ----------------------------------------------------------------------------------------------------------------------------------
+Changes Made to the _uswds-theme-color.scss file founded in the Theme folder
+* Change the varible value of $theme-color-primary from 'blue-60v' to 'blue-warm-60v'
+* Change the varible value of $theme-color-base from 'gray-cool-50'to 'gray-cool-90'
+* Change the varible value of $theme-color-secondary from 'red-50' to 'red-50v'
+* Change the varible value of $theme-color-accent-cool-light to 'blue-20v'
+* Change the varible value of $theme-color-accent-cool to 'blue-30v'
+* Change the varible value of $theme-color-accent-cool-dark to 'blue-50'
+* Change the varible value of $theme-color-accent-cool-darker to 'blue-70v'
+* Change the varible value of $theme-color-warning-lighter to 'gold-5v'
+* Change the varible value of $theme-color-warning-light to 'gold-20v'
+------------------------------------------------------------------------------------------------------------------------------------------
+Changes Made to the _uswds-theme-typography.scss file founded in the Theme folder
+ * Change the varible value of $theme-font-type-lang from False to 'helvetica'
+ * Change the varible value of $theme-font-role-heading from 'serif' to 'lang'
+ * Change the varible value of $theme-h1-font-size from '2xl' to  17 
+ * Change the varible value of $theme-h2-font-size from 'xl' to  15
+ * Change the varible value of $theme-h3-font-size from 'lg' to  12
+ * Change the varible value of $theme-h4-font-size from 'sm' to  11
+ * Change the varible value of $theme-h5-font-size from 'xs' to  10
+ * Change the Varible value of $theme-h6-font-size from '3xs' to 9
+ 
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ Where things live
+* Sytle.scss
+  * ../scss/theme/Sytle.scss
+* uswds.min.css
+  * ../css/uswds.min.css
+* _uswds-theme-color.scss
+  * ../scss/theme/_uswds-theme-color.scss
+* _uswds-theme-typography.scss
+  * ../scss/theme/_uswds-theme-typography.scss
+  
